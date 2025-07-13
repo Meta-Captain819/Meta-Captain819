@@ -1,4 +1,4 @@
-# 👋 Meta Captain | Full Stack Web Developer | Web3 Explorer
+# 👋 Muzammil Mehdi | Full Stack Web Developer | Web3 Explorer
 
 Welcome to my GitHub profile!
 
@@ -23,24 +23,24 @@ My journey also includes active work in the **Web3 space**, where I explore the 
 ### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-1572B6?style=for-the-badge&logo=tailwindcss)
+![JavaScript](https://img.shields.io/badge/JavaScript-a8a432?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-a84432?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-06B6D4?style=for-the-badge&logo=css3)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/MongoDB-32a873?style=for-the-badge&logo=mongodb)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
-![REST APIs](https://img.shields.io/badge/REST-API-green?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST-API-44a832?style=for-the-badge)
 
 ### Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Git](https://img.shields.io/badge/Git-a84432?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Postman](https://img.shields.io/badge/Postman-a84432?style=for-the-badge&logo=postman)
 
 ---
 
