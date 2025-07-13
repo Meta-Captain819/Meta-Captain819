@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I'm **Meta Captain**, a passionate and detail-oriented **Full Stack Web Developer** from Pakistan, focused on building modern, scalable, and user-centric web applications. With a strong command of both frontend and backend technologies, I aim to deliver high-performance digital experiences across all devices.
+I'm **Muzammil Mehdi**, a passionate and detail-oriented **Full Stack Web Developer** from Pakistan, focused on building modern, scalable, and user-centric web applications. With a strong command of both frontend and backend technologies, I aim to deliver high-performance digital experiences across all devices.
 
 My journey also includes active work in the **Web3 space**, where I explore the intersection of decentralized technologies, smart contracts, and frontend integration on the blockchain.
 
@@ -86,7 +86,6 @@ Provides visualized insights for paid bookings, profit analysis, instructor sala
 
 ## 📈 GitHub Stats
 
-![Meta Captain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meta-Captain819&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meta-Captain819&layout=compact&theme=tokyonight)
 
@@ -94,7 +93,7 @@ Provides visualized insights for paid bookings, profit analysis, instructor sala
 
 ## 📫 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muzammilmehdi52@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Meta-Captain819)
 
 > 📌 *Open to collaboration and freelance opportunities. Let’s build something awesome together!*
