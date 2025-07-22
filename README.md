@@ -60,9 +60,9 @@ My goal is to build solutions that bridge **modern web development** with the **
 
 ## 📂 Featured Web Development Projects
 
-### 🚘 Nayab Driving Center Admin Dashboard
+### 🚘 Driving Center site along with Admin Dashboard
 **Tech:** Next.js, Tailwind CSS, MongoDB, Node.js  
-An admin dashboard for a driving school that handles booking management, student details, instructor assignments, visual analytics, CSV/PDF exports, and approval workflows — fully responsive and optimized for real-world usage.
+A Website for a driving center with booking and other functions. An admin dashboard for a driving school that handles booking management, student details, instructor assignments, visual analytics, CSV/PDF exports, and approval workflows — fully responsive and optimized for real-world usage.
 
 ---
 
