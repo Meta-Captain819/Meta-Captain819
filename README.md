@@ -73,13 +73,13 @@ Built a full-stack e-commerce web app with product listings, cart functionality,
 ---
 
 ### 📊 Booking & Student Management System
-**Tech:** Next.js, MongoDB, Tailwind CSS  
+**Tech:** Next.js, MongoDB, Node.js, Tailwind CSS  
 A modular content management platform that manages bookings and students. Features include searching/filtering, status control (approve, complete, delete), editable fields, and full responsiveness across devices.
 
 ---
 
 ### 🧾 Analytics Dashboard with Package Insights
-**Tech:** Next.js, Chart.js, MongoDB  
+**Tech:** Next.js, Chart.js, Node.js, MongoDB, Tailwind CSS  
 Provides visualized insights for paid bookings, profit analysis, instructor salaries per package, and sales tracking. All analytics are dynamically fetched from live data and rendered with interactive charts.
 
 ---
